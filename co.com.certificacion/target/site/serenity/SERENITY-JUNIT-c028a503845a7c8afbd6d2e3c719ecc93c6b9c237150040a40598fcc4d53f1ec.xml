@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Successful authentication in the portal" skipped="0" tests="1" time="0.14" timestamp="2024-05-09 03:54:05"><testcase name="Validate successful user authentication"><error message="No stage available - it looks like you haven't called the setTheStage() method before calling this one." type="net.serenitybdd.screenplay.actors.NoStageException">No stage available - it looks like you haven't called the setTheStage() method before calling this one.</error><system-err>No stage available - it looks like you haven't called the setTheStage() method before calling this one.&#13;
+co.com.certificacion.stepdefinitions.LoginStepDefinitions.goToThePortal(LoginStepDefinitions.java:15)&#13;
+✽.that a "User" enters the portal(file:///C:/Users/Lenovo/Documents/automatizacion-pruebas/co.com.certificacion/src/test/resources/features/login.feature:6)&#13;
+</system-err></testcase></testsuite>
